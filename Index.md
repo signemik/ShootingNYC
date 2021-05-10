@@ -1,4 +1,9 @@
 
+
+ <p align="center">
+  <img src="Images/MicrosoftTeams-image.png" style="width:100%">
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/signemik/ShootingNYC/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
