@@ -1,4 +1,4 @@
-
+On average, 1571.2 people are shoot in New York City; this response to 4.3 people each day.  Does this mean that New York City is a dangerous city?
 
  <p align="center">
   <img src="Images/MicrosoftTeams-image.png" style="width:100%">
