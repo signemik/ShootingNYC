@@ -4,7 +4,17 @@ On average, 1571.2 people are shoot in New York City; this response to 4.3 peopl
   <img src="Images/shoot_year.png" style="width:80%">
 </p>
 Awesome text til victims and perpretrators
+
+
 Lær dine lokations at kende
+<iframe src="Bokeh/bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 Åhh nej cluster maps
 <iframe src="Maps/map_clusters.html"
@@ -26,6 +36,17 @@ Bang demostrationer i 2020
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+
+<iframe src="Maps/choropleth_mapbox1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="80%"
+    height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 
 WoW et peak 
 <p align="center">
