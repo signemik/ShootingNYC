@@ -1,12 +1,55 @@
 On average, 1571.2 people are shoot in New York City; this response to 4.3 people each day.  Does this mean that New York City is a dangerous city?
 
  <p align="center">
-  <img src="Images/MicrosoftTeams-image.png" style="width:100%">
+  <img src="Images/shoot_year.png" style="width:100%">
 </p>
+Awesome text til victims and perpretrators
+Lær dine lokations at kende
+
+Åhh nej cluster maps
+<iframe src="Maps/map_clusters.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Bang demostrationer i 2020
+
+<iframe src="Maps/choropleth_mapbox.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+WoW et peak 
+<p align="center">
+  <img src="Images/protest_month.png" style="width:100%">
+</p>
+
+
+Wow virklig kun 6 steder?
+
+<iframe src="Maps/map_protest.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Those things are not connenceted
+
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/signemik/ShootingNYC/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/signemik/ShootingNYC/edit/main/Index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -53,24 +96,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     seamless="seamless"
     frameborder="0">
 </iframe>
-
-
-<iframe src="Maps/heat.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-
-<iframe src="Maps/choropleth_mapbox.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
