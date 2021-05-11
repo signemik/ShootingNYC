@@ -7,13 +7,11 @@ Awesome text til victims and perpretrators
 
 
 Lær dine lokations at kende
-hej
+
 <body style="width:100%; height:100%; margin: 0px; padding: 0px;">
 <p align="center">
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
-    width="200%"
-    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0"
@@ -73,6 +71,17 @@ Wow virklig kun 6 steder?
 
 Those things are not connenceted
 
+
+
+<iframe src="Bokeh/bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="200%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0"
+    style="width:100%; height:100%;border:0;">
+</iframe>
 
 ## Welcome to GitHub Pages
 
