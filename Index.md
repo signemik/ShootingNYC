@@ -6,7 +6,7 @@ On average, 1571.2 people are shoot in New York City; this response to 4.3 peopl
 Awesome text til victims and perpretrators
 
 
-Lær dine lokations at kende hej
+Lær dine lokations at kende 
 
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
@@ -15,8 +15,8 @@ Lær dine lokations at kende hej
     scrolling="no"
     seamless="seamless"
     frameborder="0"
-    margin: "0px"
-    padding: "0px">
+    margin="0px"
+    padding="0px">
 </iframe>
 
 
