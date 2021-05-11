@@ -10,7 +10,7 @@ Lær dine lokations at kende
 <iframe src="Maps/map_clusters.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="100"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -21,7 +21,7 @@ Bang demostrationer i 2020
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="250"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
