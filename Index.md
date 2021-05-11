@@ -16,10 +16,23 @@ Lær dine lokations at kende
     scrolling="yes"
     seamless="seamless"
     frameborder="0"
-    margin="-100px"
-    padding="0px">
+    margin="0px"
+    padding="0px"
+    marginwidth="10">
 </iframe>
 
+
+<iframe src="Bokeh/bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="500%"
+    height="500"
+    scrolling="yes"
+    seamless="seamless"
+    frameborder="0"
+    margin="0px"
+    padding="0px"
+    marginwidth="1000">
+</iframe>
 
 <body style="width:100%; height:100%; margin: 0px; padding: 0px;">
 </body>
