@@ -7,14 +7,16 @@ Awesome text til victims and perpretrators
 
 
 Lær dine lokations at kende
+hej
 <p align="center">
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="200%"
     height="500"
-    scrolling="yes"
+    scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="0"
+    style="width:100%; height:100%;border:0;">
 </iframe>
 </p>
 
