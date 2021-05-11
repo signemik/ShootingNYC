@@ -7,11 +7,11 @@ Awesome text til victims and perpretrators
 
 
 Lær dine lokations at kende 
-* {
-margin: 0;
-padding: 0;
-}
+
+
+jngugnowguwrg
 <iframe src="Bokeh/bokeh.html"
+    align="left"
     sandbox="allow-same-origin allow-scripts"
     width="500%"
     height="500"
