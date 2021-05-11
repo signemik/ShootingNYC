@@ -19,8 +19,7 @@ Bang demostrationer i 2020
 
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="250"
+    width="80%"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -28,7 +27,7 @@ Bang demostrationer i 2020
 
 WoW et peak 
 <p align="center">
-  <img src="Images/protest_month.png" style="width:65%">
+  <img src="Images/protest_month.png" style="width:80%">
 </p>
 
 
