@@ -65,7 +65,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 </iframe>
 
 
-<iframe src="Maps/heat_time.html"
+<iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
