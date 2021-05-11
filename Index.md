@@ -10,7 +10,7 @@ Lær dine lokations at kende
 
 
 HELLLOO
-<iframe src="Bokeh/bokeh.html"
+<iframe src="Bokeh/bokehNew.html"
     align="left"
     sandbox="allow-same-origin allow-scripts"
     style="200%"
