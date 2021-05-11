@@ -9,9 +9,9 @@ Awesome text til victims and perpretrators
 Lær dine lokations at kende
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="200%"
     height="500"
-    scrolling="no"
+    scrolling="yes"
     seamless="seamless"
     frameborder="0">
 </iframe>
@@ -40,7 +40,7 @@ Bang demostrationer i 2020
 
 <iframe src="Maps/choropleth_mapbox1.html"
     sandbox="allow-same-origin allow-scripts"
-    width="80%"
+    width="70%"
     height="400"
     scrolling="no"
     seamless="seamless"
