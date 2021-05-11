@@ -14,6 +14,7 @@ HELLLOO
     align="left"
     sandbox="allow-same-origin allow-scripts"
     style="200%"
+    width="500"
     height="500"
     scrolling="yes"
     seamless="seamless"
