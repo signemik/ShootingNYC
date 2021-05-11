@@ -35,7 +35,7 @@ HELLLOO
 Bang demostrationer i 2020
 
 <p align="center">
-<iframe src="Maps/choropleth_mapbox.html"
+<iframe src="Maps/choropleth_mapbox1.html"
     sandbox="allow-same-origin allow-scripts"
     width="90%"
     height="400"
