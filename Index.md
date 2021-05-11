@@ -7,7 +7,7 @@ Awesome text til victims and perpretrators
 
 
 Lær dine lokations at kende 
-
+ghnjskgnjnbnjg
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="500%"
@@ -17,7 +17,8 @@ Lær dine lokations at kende
     frameborder="0"
     margin="0px"
     padding="0px"
-    marginwidth="-200px">
+    marginwidth="-200px"
+    border="0">
 </iframe>
 
 
