@@ -13,8 +13,8 @@ HELLLOO
 <iframe src="Bokeh/bokeh.html"
     align="left"
     sandbox="allow-same-origin allow-scripts"
-    style="120%"
-    height="100"
+    style="200%"
+    height="500"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
