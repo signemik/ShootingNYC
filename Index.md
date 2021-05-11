@@ -7,6 +7,7 @@ Awesome text til victims and perpretrators
 
 
 Lær dine lokations at kende
+<p align="center">
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="200%"
@@ -15,6 +16,7 @@ Lær dine lokations at kende
     seamless="seamless"
     frameborder="0">
 </iframe>
+</p>
 
 Åhh nej cluster maps
 <iframe src="Maps/map_clusters.html"
@@ -40,7 +42,7 @@ Bang demostrationer i 2020
 
 <iframe src="Maps/choropleth_mapbox1.html"
     sandbox="allow-same-origin allow-scripts"
-    width="70%"
+    width="50%"
     height="400"
     scrolling="no"
     seamless="seamless"
