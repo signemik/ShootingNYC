@@ -8,6 +8,8 @@ Awesome text til victims and perpretrators
 
 Lær dine lokations at kende
 hej
+<body style="width:100%; height:100%; margin: 0px; padding: 0px;">
+<div style="width:100%; height:30px; background-color:#cccccc;">Banner</div>
 <p align="center">
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
@@ -19,6 +21,7 @@ hej
     style="width:100%; height:100%;border:0;">
 </iframe>
 </p>
+</body>
 
 Åhh nej cluster maps
 <iframe src="Maps/map_clusters.html"
