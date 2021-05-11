@@ -18,7 +18,7 @@ Lær dine lokations at kende
     frameborder="0"
     margin="0px"
     padding="0px"
-    marginwidth="10">
+    marginwidth="-10">
 </iframe>
 
 
@@ -31,7 +31,7 @@ Lær dine lokations at kende
     frameborder="0"
     margin="0px"
     padding="0px"
-    marginwidth="1000">
+    marginwidth="-1000">
 </iframe>
 
 <body style="width:100%; height:100%; margin: 0px; padding: 0px;">
