@@ -8,15 +8,19 @@ Awesome text til victims and perpretrators
 
 Lær dine lokations at kende hej
 
-<body style="width:100%; height:100%; margin: 0px; padding: 0px;">
-<p align="center">
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="0"
+    margin: "0px"
+    padding: "0px">
 </iframe>
-</p>
+
+
+<body style="width:100%; height:100%; margin: 0px; padding: 0px;">
 </body>
 
 Åhh nej cluster maps
@@ -40,15 +44,6 @@ Bang demostrationer i 2020
     frameborder="0">
 </iframe>
 
-
-<iframe src="Maps/choropleth_mapbox1.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="50%"
-    height="400"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
 
 
 WoW et peak 
