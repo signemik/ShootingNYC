@@ -14,8 +14,7 @@ Lær dine lokations at kende
     sandbox="allow-same-origin allow-scripts"
     scrolling="no"
     seamless="seamless"
-    frameborder="0"
-    style="width:100%; height:100%;border:0;">
+    frameborder="0">
 </iframe>
 </p>
 </body>
