@@ -22,19 +22,6 @@ HELLLOO
 </iframe>
 
 
-<iframe src="Bokeh/bokeh.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="500%"
-    height="500"
-    scrolling="yes"
-    seamless="seamless"
-    frameborder="0"
-    margin="0px"
-    padding="0px"
-    marginwidth="200px">
-</iframe>
-
-
 Åhh nej cluster maps
 <iframe src="Maps/map_clusters.html"
     sandbox="allow-same-origin allow-scripts"
@@ -47,14 +34,16 @@ HELLLOO
 
 Bang demostrationer i 2020
 
+<p align="center">
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
-    width="80%"
+    width="90%"
     height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
+</p>
 
 
 
