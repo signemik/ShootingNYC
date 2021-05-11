@@ -8,7 +8,6 @@ Awesome text til victims and perpretrators
 
 Lær dine lokations at kende 
 
-HHFFBFKF
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="500%"
@@ -18,7 +17,7 @@ HHFFBFKF
     frameborder="0"
     margin="0px"
     padding="0px"
-    marginwidth="-10">
+    marginwidth="-200px">
 </iframe>
 
 
@@ -31,7 +30,7 @@ HHFFBFKF
     frameborder="0"
     margin="0px"
     padding="0px"
-    marginwidth="-1000">
+    marginwidth="200px">
 </iframe>
 
 <body style="width:100%; height:100%; margin: 0px; padding: 0px;">
