@@ -8,7 +8,7 @@ Awesome text til victims and perpretrators
 
 Lær dine lokations at kende 
 
-HWLLLL
+
 <iframe src="Bokeh/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="500%"
@@ -16,7 +16,7 @@ HWLLLL
     scrolling="yes"
     seamless="seamless"
     frameborder="0"
-    margin="0px"
+    margin="-100px"
     padding="0px">
 </iframe>
 
