@@ -21,7 +21,7 @@ Bang demostrationer i 2020
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
     width="80%"
-    height="250"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
