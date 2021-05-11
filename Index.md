@@ -1,7 +1,7 @@
 On average, 1571.2 people are shoot in New York City; this response to 4.3 people each day.  Does this mean that New York City is a dangerous city?
 
  <p align="center">
-  <img src="Images/shoot_year.png" style="width:100%">
+  <img src="Images/shoot_year.png" style="width:50%">
 </p>
 Awesome text til victims and perpretrators
 Lær dine lokations at kende
@@ -10,7 +10,6 @@ Lær dine lokations at kende
 <iframe src="Maps/map_clusters.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="100"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -29,7 +28,7 @@ Bang demostrationer i 2020
 
 WoW et peak 
 <p align="center">
-  <img src="Images/protest_month.png" style="width:100%">
+  <img src="Images/protest_month.png" style="width:75%">
 </p>
 
 
