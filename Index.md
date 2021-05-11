@@ -67,17 +67,6 @@ Wow virklig kun 6 steder?
 Those things are not connenceted
 
 
-
-<iframe src="Bokeh/bokeh.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="200%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0"
-    style="width:100%; height:100%;border:0;">
-</iframe>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/signemik/ShootingNYC/edit/main/Index.md) to maintain and preview the content for your website in Markdown files.
