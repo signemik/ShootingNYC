@@ -57,6 +57,7 @@ Now that we know more about the protests, let’s take a look at how many protes
     frameborder="0">
 </iframe>
 
+The majority of the protests were held in Manhattan and therefore, most of them were not located in the same place as most shootings which were in Brooklyn. However, shootings did occur in Manhattan and some protests were also held in Brooklyn so perhaps there could be a connection between the protests and shootings. Let’s take a more detailed look at the exact location of the shootings in 2020 and the protests.  
 
 
 Wow virklig kun 6 steder?
@@ -69,6 +70,7 @@ Wow virklig kun 6 steder?
     seamless="seamless"
     frameborder="0">
 </iframe>
+<p style="color:grey"><small><i>Notice that the pop-up markers show the extact location of the protest. The protests coordinates have been randomly been moved with a small distance from the original location.</i></small></p>
 
 Those things are not connenceted
 
