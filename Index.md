@@ -8,7 +8,7 @@ An interesting trend can be found in the number of shootings through the past ye
 
 Before trying to answer this question, let’s get a better understanding of when and where most shootings happen. New York City consists of five different boroughs: Manhattan, Brooklyn, Queens, Bronx, and Staten Island. To see which of the boroughs are worst when it comes to shootings, take a look at the following distributions for monthly, daily and hourly shootings. Feel free to filter between the different boroughs. 
 
-HELLLOO
+
 <iframe src="Bokeh/bokehNew.html"
     align="left"
     sandbox="allow-same-origin allow-scripts"
@@ -20,6 +20,7 @@ HELLLOO
     frameborder="0">
 </iframe>
 
+<br>
 
 Apparently, the risk of being shot increases during the Summer which is quite problematic when considering that this is the time of the year that most tourists come to visit New York City and citizens are more outside – but luckily the distributions can give us some helpful tips on which areas to avoid and when. First of all, there is a lot of gun-shooting in Brooklyn and Bronx compares to the other boroughs, especially during the weekends in the late evening hours and night. Avoiding entire boroughs could be quite inconvenient which is why we should investigate which areas in particular one would be most exposed to shootings. 
 
@@ -34,7 +35,9 @@ Take a look at the map below that shows all the shootings from each year includi
     frameborder="0">
 </iframe>
 
-Bang demostrationer i 2020
+Try selecting 2010, 2012, 2017, 2018 and 2019. It is obvious to see that there are some popular hotspots for shootings in the different boroughs. Take a look at Brooklyn for instance, where the Northern area is way more exposed to shootings than the Southern area. Likewise, more shootings occur in Northern Manhattan, Eastern Queens and Southern Bronx. These are areas that you should want to avoid in the weekends when it is late at night. Go to Staten Island instead where the risk of being shot is way smaller. 
+
+Anyway, now that we have gotten an understanding of which areas should be avoided and when let’s go back to discover what happened in 2020.   
 
 <p align="center">
 <iframe src="Maps/choropleth_mapbox.html"
