@@ -38,6 +38,7 @@ Try selecting 2010, 2012, 2017, 2018 and 2019. It is obvious to see that there a
 
 Anyway, now that we have gotten an understanding of which areas should be avoided and when let’s go back to discover what happened in 2020.   
 
+The year 2020 was an eventful year. The world experienced a pandemic, there was an increased focus on race discrimination and the U.S. got a new president. This all resulted in many protests across the U.S. where specifically 614 took place in New York City. Maybe this could have influenced the increased number of shootings? Firstly, let’s have a look at the monthly distribution of the protests to get an understanding of when they were held. 
  
 <p align="center">
   <img src="Images/protest_month.png" style="width:80%">
