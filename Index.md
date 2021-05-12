@@ -48,16 +48,14 @@ It is interesting that the number of protests peaks during the Summer which was 
 
 Now that we know more about the protests, let’s take a look at how many protests were held in the different boroughs. On the map below the distribution of 495 of the protests is shown since it was not possible to find the location of the remaining protests. Try hovering over the different boroughs.  
 
-<p align="center">
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
-</p>
 
 
 
