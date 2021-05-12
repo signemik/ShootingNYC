@@ -67,6 +67,9 @@ Wow virklig kun 6 steder?
 Those things are not connenceted
 
 
+Source used to support the story:
+<p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i> [link to website](https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet) </small></p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/signemik/ShootingNYC/edit/main/Index.md) to maintain and preview the content for your website in Markdown files.
@@ -106,13 +109,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-
-
-<iframe src="Bokeh/flowers.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="700"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
