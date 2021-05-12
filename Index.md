@@ -44,7 +44,10 @@ The year 2020 was an eventful year. The world experienced a pandemic, there was 
   <img src="Images/protest_month.png" style="width:80%">
 </p>
 
-Shit Manhattan
+It is interesting that the number of protests peaks during the Summer which was also the case for the number of shootings. The murder of George Floyd happened on the 25th of May 2020 which resulted in many protests in June by the Black Lives Matter movement. In October the restrictions for NYC were renewed which resulted in protests during the Autumn 2020. The presidential election was at the beginning of November which explains the protests in during time up to and shortly after the election.   
+
+Now that we know more about the protests, let’s take a look at how many protests were held in the different boroughs. On the map below the distribution of 495 of the protests is shown since it was not possible to find the location of the remaining protests. Try hovering over the different boroughs.  
+
 <p align="center">
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
