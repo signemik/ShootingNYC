@@ -6,7 +6,7 @@ On average, 1571.2 people are shoot in New York City; this response to 4.3 peopl
 
 An interesting trend can be found in the number of shootings through the past years. In 2006 there were 2055 shootings reported by NYPD. After a school shooting in the neighboring state, Connecticut, the New York State gun law was restricted, and the result is clear when looking at the number of shooting in 2013 that decreased to 1338.  In the next years, the overall trend in the number of shootings was descending and in 2019 it came down to 967. This makes sense as stricter gun laws would lead to less shootings one would think, however the number of shootings drastically increased in 2020 by more than 100%. How can this be? 
 
-Before trying to answer this question, let’s get a better understanding of when and where most shootings happen. New York City consists of five different boroughs: Manhattan, Brooklyn, Queens, Bronx, and Staten Island. To see which of the boroughs are worst when it comes to shootings, take a look at the following distributions. 
+Before trying to answer this question, let’s get a better understanding of when and where most shootings happen. New York City consists of five different boroughs: Manhattan, Brooklyn, Queens, Bronx, and Staten Island. To see which of the boroughs are worst when it comes to shootings, take a look at the following distributions for monthly, daily and hourly shootings. Feel free to filter between the different boroughs. 
 
 HELLLOO
 <iframe src="Bokeh/bokehNew.html"
@@ -19,6 +19,7 @@ HELLLOO
     seamless="seamless"
     frameborder="0">
 </iframe>
+
 
 Apparently, the risk of being shot increases during the Summer which is quite problematic when considering that this is the time of the year that most tourists come to visit New York City and citizens are more outside – but luckily the distributions can give us some helpful tips on which areas to avoid and when. First of all, there is a lot of gun-shooting in Brooklyn and Bronx compares to the other boroughs, especially during the weekends in the late evening hours and night. Avoiding entire boroughs could be quite inconvenient which is why we should investigate which areas in particular one would be most exposed to shootings. 
 
