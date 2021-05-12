@@ -20,8 +20,10 @@ HELLLOO
     frameborder="0">
 </iframe>
 
+Apparently, the risk of being shot increases during the Summer which is quite problematic when considering that this is the time of the year that most tourists come to visit New York City and citizens are more outside – but luckily the distributions can give us some helpful tips on which areas to avoid and when. First of all, there is a lot of gun-shooting in Brooklyn and Bronx compares to the other boroughs, especially during the weekends in the late evening hours and night. Avoiding entire boroughs could be quite inconvenient which is why we should investigate which areas in particular one would be most exposed to shootings. 
 
-Åhh nej cluster maps
+Take a look at the map below that shows all the shootings from each year including the size of the shooting. Feel free to click around, filter the different years and zoom in and out on the map.  
+
 <iframe src="Maps/map_clusters.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
