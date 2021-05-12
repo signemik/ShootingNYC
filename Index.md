@@ -3,11 +3,10 @@ On average, 1571.2 people are shoot in New York City; this response to 4.3 peopl
  <p align="center">
   <img src="Images/shoot_year.png" style="width:80%">
 </p>
-Awesome text til victims and perpretrators
 
+An interesting trend can be found in the number of shootings through the past years. In 2006 there were 2055 shootings reported by NYPD. After a school shooting in the neighboring state, Connecticut, the New York State gun law was restricted, and the result is clear when looking at the number of shooting in 2013 that decreased to 1338.  In the next years, the overall trend in the number of shootings was descending and in 2019 it came down to 967. This makes sense as stricter gun laws would lead to less shootings one would think, however the number of shootings drastically increased in 2020 by more than 100%. How can this be? 
 
-Lær dine lokations at kende 
-
+Before trying to answer this question, let’s get a better understanding of when and where most shootings happen. New York City consists of five different boroughs: Manhattan, Brooklyn, Queens, Bronx, and Staten Island. To see which of the boroughs are worst when it comes to shootings, take a look at the following distributions. 
 
 HELLLOO
 <iframe src="Bokeh/bokehNew.html"
