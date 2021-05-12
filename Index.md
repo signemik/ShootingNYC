@@ -68,7 +68,7 @@ Those things are not connenceted
 
 
 Source used to support the story:
-<p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i> [link to website](https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet) </small></p>
+<p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p>
 
 ## Welcome to GitHub Pages
 
