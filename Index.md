@@ -37,9 +37,7 @@ Take a look at the map below, that shows all the shootings from each year includ
 
 Try selecting 2010, 2012, 2017, 2018 and 2019. It is obvious to see that there are some popular shooting hotspots in the different boroughs. Take a look at Brooklyn for instance, where the Northern area is way more exposed to shootings than the Southern area. Likewise, more shootings occur in Northern Manhattan, Eastern Queens and Southern Bronx. These are areas that you should want to avoid in the weekends when it is late at night. Go to Staten Island instead where the risk of being shot is way smaller. 
 
-Anyway, now that we have gotten an understanding of which areas that should be avoided and when let’s go back to discover what happened in 2020.   
-
-The year 2020 was an eventful year. The world experienced a pandemic, there was an increased focus on race discrimination and the U.S. got a new president. This all resulted in many protests across the U.S. where specifically 614 took place in New York City. Maybe this could have influenced the increased number of shootings? 
+Anyway, now that we have gotten an understanding of which areas that should be avoided and when let’s go back to discover what happened in 2020. The year 2020 was an eventful year. The world experienced a pandemic, there was an increased focus on race discrimination and the U.S. got a new president. This all resulted in many protests across the U.S. where specifically 614 took place in New York City. Maybe this could have influenced the increased number of shootings? 
 
 Firstly, let’s have a look at the monthly distribution of the protests to get an understanding of when they were held. 
  
