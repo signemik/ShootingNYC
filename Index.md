@@ -82,7 +82,7 @@ There were six hotspots for the protests in 2020; one on Staten Island at Westwo
 
 Overall, it can be stated that the risk of being shot in New York City is bigger in the areas defined as shooting hotspots particularly in the weekend during the late evening hours and in the night. Furthermore, it cannot be eliminated, that protests contribute to more shootings, thus one should be aware of a potential higher risk when many protests are held.   
 
-The background for the conlcusions in this article can be found at <a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to Jupyter Notebook</a> 
+The background for the conlcusions in this article can be found at <a href="https://drive.google.com/file/d/1ISB2-OCiUcks6Bzo2m3Rd649LqsNw5OW/view?usp=sharing"> link to Jupyter Notebook</a> 
 
 Furthere sources are used to support the article:
 <p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p> 
