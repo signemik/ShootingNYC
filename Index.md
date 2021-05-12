@@ -1,4 +1,4 @@
-In New York City approximately 1,571 people are shot every year which corresponds to 4 people each day. Gun control is one of the most divisive issues in American politics and even though gun laws have been restricted and regulated several times, incidents of homicides caused by shootings occur relatively often compared to other Western countries.  This article investigates the risk of being shot in New York City and which areas in particular, one should avoid at specific time slots. Furthermore, it is explored whether protests had an influence on or connection to the number of shootings in New York City in 2020.  
+In New York City approximately 1,571 people are shot every year which corresponds to 4 people every day. Gun control is one of the most divisive issues in American politics and even though gun laws have been restricted and regulated several times, incidents of homicides caused by shootings occur relatively often compared to other Western countries.  This article investigates the risk of being shot in New York City and which areas in particular, one should avoid at specific time slots. Furthermore, it is explored whether protests had an influence on or connection to the number of shootings in New York City in 2020.  
 
 Let’s begin by understanding how the number of shootings has evolved through the years, through an overview of the number of shootings in New York City from 2006-2020.
 
@@ -36,7 +36,7 @@ Take a look at the map below, that shows all the shootings from each year includ
     seamless="seamless"
     frameborder="0">
 </iframe>
-<p style="color:grey"><small><i> The map shows the locations and sizes of shootings and in New York City. From the map, four shooting hotspots can be identified.</i></small></p>
+<p style="color:grey"><small><i> The map shows the locations and sizes of shootings in New York City. From the map, four shooting hotspots can be identified.</i></small></p>
 
 Try selecting 2010, 2012, 2017, 2018 and 2019. It is obvious to see that there are some popular shooting hotspots in the different boroughs. Take a look at Brooklyn for instance, where the Northern area is way more exposed to shootings than the Southern area. Likewise, more shootings occur in Northern Manhattan, Eastern Queens and Southern Bronx. These are areas that you should want to avoid in the weekends when it is late at night. Go to Staten Island instead where the risk of being shot is way smaller. 
 
@@ -47,8 +47,7 @@ Firstly, let’s have a look at the monthly distribution of the protests to get 
 <p align="center">
   <img src="Images/protest_month.png" style="width:80%">
 </p>
-<p style="color:grey"><small><i> The figure shows the monthly distribution of protests in New York City. The number of protests was relatively low at the beginning of 2020, but then peak in June. Afterward, the number of protests decreases but keeps at a stable level.</i></small></p>
-
+<p style="color:grey"><small><i> The figure shows the monthly distribution of protests in New York City. The number of protests was relatively low at the beginning of 2020, but then peak in June. Afterwards, the number of protests decreases a little bit but keeps at a stable level.</i></small></p>
 
 It is interesting that the number of protests peaks during the Summer which was also the case for the number of shootings. The murder of George Floyd happened on the 25th of May 2020 which resulted in many protests in June by the Black Lives Matter movement. In October the restrictions for New York City were renewed which resulted in protests during the Autumn 2020. The presidential election was at the beginning of November which explains some of the protests during the time up to and shortly after the election.   
 
@@ -62,7 +61,7 @@ Now that we know more about the protests, let’s take a look at how many protes
     seamless="seamless"
     frameborder="0">
 </iframe>
-<p style="color:grey"><small><i> Most of the protests were organized in Manhattan and fewest in Staten Island.</i></small></p>
+<p style="color:grey"><small><i> Most of the protests were organized in Manhattan and fewest on Staten Island.</i></small></p>
 
 The majority of the protests were held in Manhattan and therefore, most of them were not located in the same place as most shootings were located, namely in Brooklyn. However, shootings did occur in Manhattan and some protests were also held in Brooklyn so perhaps there could be a connection between the protests and shootings. 
 
@@ -82,8 +81,8 @@ There were six hotspots for the protests in 2020; one on Staten Island at Westwo
 
 Overall, it can be stated that the risk of being shot in New York City is bigger in the areas defined as shooting hotspots particularly in the weekend during the late evening hours and in the night. Furthermore, it cannot be eliminated, that protests contribute to more shootings, thus one should be aware of a potential higher risk when many protests are held.   
 
-The background for the conlcusions in this article can be found at <a href="https://drive.google.com/file/d/1ISB2-OCiUcks6Bzo2m3Rd649LqsNw5OW/view?usp=sharing"> link to Jupyter Notebook</a> 
+The background for the conclusions in this article can be found in <a href="https://drive.google.com/file/d/1ISB2-OCiUcks6Bzo2m3Rd649LqsNw5OW/view?usp=sharing"> this explainer notebook </a> <p><u>Remember to make the notebook trusted in order to see the visulizations.</u></p>
 
-Furthere sources are used to support the article:
+Additional sources are used to support the article:
 <p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p> 
 <p><small>World Population Review (2021) <i>Gun Deaths By Country 2021</i><a href="https://worldpopulationreview.com/country-rankings/gun-deaths-by-country"> link to website</a>  (Accessed: 12-5-2021)</small></p>
