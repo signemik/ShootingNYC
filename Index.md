@@ -70,12 +70,15 @@ Wow virklig kun 6 steder?
     seamless="seamless"
     frameborder="0">
 </iframe>
-<p style="color:grey"><small><i>Notice that the pop-up markers show the extact location of the protest. The protests coordinates have been randomly been moved with a small distance from the original location.</i></small></p>
+<p style="color:grey"><small><i>Notice that the pop-up markers show the exact location of the protest. As the protests all lie within the same six locations, they have randomly been moved with a small distance from the original location.</i></small></p>
 
-Those things are not connenceted
+There were six hotspots for protests in 2020; one on Staten Island at Westwood Hill Park, one in Brooklyn by the New York Transit Museum, two in Manhattan at Central Park and the New York City Hall, one in Bronx by Bronx Park and one in Queens by the First Baptist Church. Hereof Central Park was the most frequently used spot. Only a few shootings took place at the same locations as the protests. This indicates that there is no clear connection between the protests and the number of shootings. However, an online research shows that the number of shootings related to hate crime increased together with the protests in 2020. This indicates that the protests could have contributed to more public unrest, street violence and perhaps more shootings. Thus, one could say that protests in 2020 had no direct influence on the increased number of shootings in 2020 but they may have contributed to the trend. 
 
+Overall, it can be stated that the risk of being shot in New York City is bigger in the areas defined as shooting hotspots particularly in the weekend during the late evening hours and in the night. Furthermore, it cannot be eliminated, that protests contribute to more shootings, thus one should be aware of a potential higher risk when many protests are held.  
 
-Source used to support the story:
+The background for the conlcusions in this article can be found at <a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to Jupyter Notebook</a> 
+
+Furthere source is used to support the story:
 <p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p>
 
 ## Welcome to GitHub Pages
