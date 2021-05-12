@@ -79,7 +79,9 @@ Overall, it can be stated that the risk of being shot in New York City is bigger
 The background for the conlcusions in this article can be found at <a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to Jupyter Notebook</a> 
 
 Furthere source is used to support the story:
-<p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p>
+<p><small>Berlingske (2013) <i>Nu er New Yorks våbenlov strammet</i><a href="https://www.berlingske.dk/internationalt/nu-er-new-yorks-vaabenlov-strammet"> link to website</a>  (Accessed: 12-5-2021)</small></p> 
+<p><small>World Population Review (2021) <i>Gun Deaths By Country 2021</i><a href="https://worldpopulationreview.com/country-rankings/gun-deaths-by-country"> link to website</a>  (Accessed: 12-5-2021)</small></p>
+
 
 ## Welcome to GitHub Pages
 
