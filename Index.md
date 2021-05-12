@@ -62,7 +62,7 @@ Now that we know more about the protests, let’s take a look at how many protes
     seamless="seamless"
     frameborder="0">
 </iframe>
-<p style="color:grey"><small><i> Most of the protests oraginze in Mahattan and fewest in Staten Island.</i></small></p>
+<p style="color:grey"><small><i> Most of the protests were organized in Manhattan and fewest in Staten Island.</i></small></p>
 
 The majority of the protests were held in Manhattan and therefore, most of them were not located in the same place as most shootings were located, namely in Brooklyn. However, shootings did occur in Manhattan and some protests were also held in Brooklyn so perhaps there could be a connection between the protests and shootings. 
 
@@ -76,7 +76,7 @@ Let’s take a more detailed look at the exact location of the shootings in 2020
     seamless="seamless"
     frameborder="0">
 </iframe>
-<p style="color:grey"><small><i>Notice that the pop-up markers show the exact location of the protest. As the protests all lie within the same six locations, they have randomly been moved with a small distance from the original location. It is seen that few shootings took place at the extact same location as the protests.</i></small></p>
+<p style="color:grey"><small><i>Notice that the pop-up markers show the exact location of the protest. As the protests all lie within the same six locations, they have randomly been moved with a small distance from the original location. It is seen that few shootings took place at the exact same location as the protests.</i></small></p>
 
 There were six hotspots for the protests in 2020; one on Staten Island at Westwood Hill Park, one in Brooklyn by the New York Transit Museum, two in Manhattan at Central Park and the New York City Hall, one in Bronx by Bronx Park and one in Queens by the First Baptist Church. Hereof Central Park was the most frequently used spot. Only a few shootings took place at the exact same location as the protests. This indicates that there is no clear connection between the protests and the number of shootings. However, an online research shows that the number of shootings related to hate crime increased together with the protests in 2020. This indicates that the protests could have contributed to more public unrest, street violence and perhaps more shootings. Thus, one could say that protests in 2020 had no direct influence on the increased number of shootings in 2020 but they may have contributed to the trend. 
 
