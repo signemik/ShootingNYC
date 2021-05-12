@@ -39,6 +39,12 @@ Try selecting 2010, 2012, 2017, 2018 and 2019. It is obvious to see that there a
 
 Anyway, now that we have gotten an understanding of which areas should be avoided and when let’s go back to discover what happened in 2020.   
 
+ 
+<p align="center">
+  <img src="Images/protest_month.png" style="width:80%">
+</p>
+
+Shit Manhattan
 <p align="center">
 <iframe src="Maps/choropleth_mapbox.html"
     sandbox="allow-same-origin allow-scripts"
@@ -50,12 +56,6 @@ Anyway, now that we have gotten an understanding of which areas should be avoide
 </iframe>
 </p>
 
-
-
-WoW et peak 
-<p align="center">
-  <img src="Images/protest_month.png" style="width:80%">
-</p>
 
 
 Wow virklig kun 6 steder?
